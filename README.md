@@ -9,7 +9,7 @@ grocery shopping easier and cheaper.
 ### Install libraries
 
 The program depends BeautifulSoup and Requests libraries. Probably the most
-sanest way is to install them with pip (might must be installed as root):
+sanest way is to install them with pip (use root privileges if necessary):
 
 `pip install beautifulsoup4`
 
