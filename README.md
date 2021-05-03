@@ -220,3 +220,6 @@ Examples:
 
 Sten-Markus Vaska (project lead) and Oliver Paljak (developer).
 
+## License
+
+vasjak is licensed under AGPLv3+. Plese see the file LICENSE for more information.
