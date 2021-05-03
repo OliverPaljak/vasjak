@@ -1,5 +1,5 @@
 """
-Main module/entry point for <project_name>
+Main module/entry point for vasjak
 
 Get products from different stores and sort them by price
 
