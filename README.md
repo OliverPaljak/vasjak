@@ -1,7 +1,7 @@
 # vasjak
 
 ## About
-vasjak is an estonian e-store price comparator. It aims to make online
+vasjak is an estonian e-store web scraper. It aims to make online
 grocery shopping easier and cheaper.
 
 ## How to install
